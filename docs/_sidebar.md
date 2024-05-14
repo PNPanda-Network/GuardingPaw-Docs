@@ -4,17 +4,15 @@
 
 ----
 
-[Introduction](home.md)
+[Introduction](introduction.md)
 [Getting Started](getting-started.md)
 
-**Notifications**
-[Youtube Feed](notifications-and-feeds/youtube-feed.md)
-[Streaming Feed](notifications-and-feeds/streaming-feed.md)
+[Autorole](autorole.md)
+[Logging](logging.md)
+[Temporary Voice Channels](temporary-voice-channels.md)
+[Reaction Roles](reaction-roles.md)
+[Ticket System](ticket-system.md)
+[Paw Tunes](paw-tunes.md)
 
-**Tools & Utilities**
-[Autorole](tools-and-utilities/autorole.md)
-[Logging](tools-and-utilities/logging.md)
-[Temporary Voice Channels](tools-and-utilities/temporary-voice-channels.md)
-[Reaction Roles](tools-and-utilities/reaction-roles.md)
-[Ticket System](tools-and-utilities/ticket-system.md)
-[Paw Tunes](tools-and-utilities/paw-tunes.md)
+[Youtube Notifications](youtube.md)
+[Twitch Notifications](streaming.md)

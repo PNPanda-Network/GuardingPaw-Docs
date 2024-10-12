@@ -1,9 +1,9 @@
- ## YouTube Notifications
+## YouTube Notifications
 
 To receive notifications from a YouTube channel, simply go to the YouTube channel you want to receive notifications from and copy the ChannelID.<br>
 
 ![youtube_0](../assets/images/youtube_0.png)
-  
+
 The Default notification message is: <br> `<everyone> <channelname> uploaded a new video! Go check it out!!`<br>
 You can customize the message by using the following placeholders:<br>
 - `<everyone>` - Mentions everyone

@@ -1,7 +1,5 @@
----
+# Guarding Paw Dokumentation
 
-
-# Guarding Paw - Documentation
 This is the documentation page for Guarding Paw. It is a work in progress. If you don't find the information you're looking for, please inform the [support server. ](https://pnnet.dev/discord)\
 
 ## Reporting issues

@@ -4,17 +4,30 @@ To receive notifications from a Twitch streamer, simply go to the Twitch channel
 
 ![alt text](../assets/images/YdNVGx6W4t.png)
 
-The Default notification message is: <br> `<everyone> <channelname> is now live! Go check it out!!`<br>
+The default notification message is: <br> `<everyone> <channelname> is now live! Go check it out!!`<br>
 You can customize the message by using the following placeholders:<br>
 - `<everyone>` - Mentions everyone
 - `<channelname>` - The name of the channel
 
+## Discord Commands
+
+Use the following Discord commands to manage your Twitch notifications:
+
+- `/notification add` - Select the notification type and add a new notification.
+- `/notification list type:Twitch` - Get a list of all Twitch notifications.
+- `/notification remove removechannel:<channelname>` - Remove a notification for a specific channel.
+
 ### Preview
-![Preview](../assets/images/cAmvfSOs3e.png)
 
+Below are some preview images to help you understand the process:
 
-## Discord Command´s
+![notification_discord_select](../assets/images/notification_discord_twitch_Select.png)
+![notification_discord_twitch_name_enter](../assets/images/notification_discord_twitch_name_enter.png)
+![notification_discord_twitch_channel_select](../assets/images/notification_discord_twitch_channel_select.png)
+![notification_discord_twitch_channel_info](../assets/images/notification_discord_twitch_channel_info.png)
+![notification_discord_discord_channel_select](../assets/images/notification_discord_twitch_Discordchannel_select.png)
+![notification_discord_twitch_end_info](../assets/images/notification_discord_twitch_End_info.png)
+![notification_discord_twitch_final](../assets/images/notification_discord_twitch_final.png)
+![notification_discord_twitch_list](../assets/images/notification_discord_twitch_list.png)
 
-`/notification add channel:#testing channelname:<channelname> type:Twitch`<br> (optional add: `custommessage:<channelname> is now live!`) to set a custom message.<br><br>
-`/notification list type:Twitch` - get a list of all notifications.<br>
-`/notification remove removechannel:<channelname>` - to remove a notification.<br>
+![preview](../assets/images/cAmvfSOs3e.png)

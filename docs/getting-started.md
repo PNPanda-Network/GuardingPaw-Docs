@@ -12,7 +12,7 @@ The setup for is pretty simple.
 1. Go to [https://guardingpaw.xyz/manage](https://guardingpaw.xyz/manage)
 2. Authorize Guarding Paw to know what servers you are on.
 3. On the upper-right-corner, you can select your server by clicking on **Select a server** and selecting the server you want to add the bot to and manage.
-4. (Optional) You can manage all things via [Commands](all-commands.md), but the control panel is more user-friendly.
+4. (Optional) You can manage all things via [Commands](/sites/all-commands.md), but the control panel is more user-friendly.
 
 
 

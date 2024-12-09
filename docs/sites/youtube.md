@@ -21,13 +21,13 @@ Use the following Discord commands to manage your YouTube notifications:
 
 Below are some preview images to help you understand the process:
 
-![notification_discord_select](../assets/images/notification_discord_Select.png)
-![notification_discord_youtube_name_enter](../assets/images/notification_discord_youtube_name_enter.png)
-![notification_discord_youtube_channel_select](../assets/images/notification_discord_youtube_channel_select.png)
-![notification_discord_youtube_channel_info](../assets/images/notification_discord_youtube_channel_info.png)
-![notification_discord_discord_channel_select](../assets/images/notification_discord_youtube_Discordchannel_select.png)
-![notification_discord_youtube_end_info](../assets/images/notification_discord_youtube_End_info.png)
-![notification_discord_youtube_final](../assets/images/notification_discord_youtube_final.png)
-![notification_discord_youtube_list](../assets/images/notification_discord_youtube_list.png)
+![notification_discord_select](../assets/images/notification/notification_discord_Select.png)
+![notification_discord_youtube_name_enter](../assets/images/notification/youtube/notification_discord_youtube_name_enter.png)
+![notification_discord_youtube_channel_select](../assets/images/notification/youtube/notification_discord_youtube_channel_select.png)
+![notification_discord_youtube_channel_info](../assets/images/notification/youtube/notification_discord_youtube_channel_info.png)
+![notification_discord_discord_channel_select](../assets/images/notification/youtube/notification_discord_youtube_Discordchannel_select.png)
+![notification_discord_youtube_end_info](../assets/images/notification/youtube/notification_discord_youtube_End_info.png)
+![notification_discord_youtube_final](../assets/images/notification/youtube//notification_discord_youtube_final.png)
+![notification_discord_youtube_list](../assets/images/notification/youtube/notification_discord_youtube_list.png)
 
 ![preview](../assets/images/s1ITuqYJE3.png)

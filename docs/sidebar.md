@@ -1,9 +1,19 @@
-- [Introduction](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/introduction.md)
-- [Getting Started](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/getting-started.md)
-   - [Autorole](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/autorole.md)
-   - [Logging](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/logging.md)
-   - [Temporary Voice Channels](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/temporary-voice-channels.md)
-   - [Reaction Roles](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/reaction-roles.md)
-   - [Ticket System](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/ticket-system.md)
-   - [Youtube Notifications](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/youtube.md)
-   - [Twitch Notifications](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/streaming.md)
+- [Introduction](Dokumentation/Dev-Docs/docs/home.md)
+- [Getting Started](Dokumentation/Dev-Docs/docs/getting-started.md)
+
+**Core Features**
+- [Auto Roles](Dokumentation/Dev-Docs/docs/sites/autorole.md)
+- [Server Logging](Dokumentation/Dev-Docs/docs/sites/logging.md)
+- [Ticket System](Dokumentation/Dev-Docs/docs/sites/ticket-system.md)
+
+**User Interaction**
+- [Reaction Roles](Dokumentation/Dev-Docs/docs/sites/reaction-roles.md)
+- [Temporary Voice Channels](Dokumentation/Dev-Docs/docs/sites/temporary-voice-channels.md)
+
+**Notifications**
+- [YouTube Alerts](Dokumentation/Dev-Docs/docs/sites/youtube.md)
+- [Twitch Alerts](Dokumentation/Dev-Docs/docs/sites/streaming.md)
+
+**Reference**
+- [All Commands](Dokumentation/Dev-Docs/docs/sites/all-commands.md)
+- [Transcripts](Dokumentation/Dev-Docs/docs/sites/transcript.md)

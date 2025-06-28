@@ -1,21 +1,41 @@
-## Logging
+# Server Logging & Audit Events
 
-You can Log Audit log events zb. when a user joins or leaves a voice channel, or when a user is banned or unbanned from the server.
+Monitor and track important server activities with Guarding Paw's comprehensive logging system. Keep your moderation team informed and maintain detailed records of server events.
 
-You can select which events you want to log by chcking the boxes. You can also set a channel where the logs will be sent to.
-If you want to send a welcome message to the user when they join the server, you can select a channel where the message will be sent to.
+## What Gets Logged?
 
-### Setup
-![Logging](../assets/images/EWZkXPO8ML.png)
+The audit logging system can track various server events, including:
+
+- **Member Events**: Joins, leaves, kicks, bans, timeouts
+- **Voice Activity**: Channel joins, leaves, moves, mute/deafen status
+- **Role Changes**: Role assignments and removals
+- **Channel Activity**: Message deletions, edits (when possible)
+- **Server Changes**: Channel creation/deletion, role modifications
+- **Bot Actions**: Automated actions performed by Guarding Paw
+
+### Setup Process:
+
+1. **Access Settings**: Visit the [Hub](https://guardingpaw.xyz/manage) and navigate to the Logging section
+2. **Select Events**: Check the boxes for events you want to monitor
+3. **Choose Log Channel**: Select where log messages should be sent
+4. **Configure Welcome Messages**: Optionally set up welcome messages for new members
+
+## Discord Commands
+
+For quick configuration via Discord:
+
+| Command     | Description                           | Usage                                 |
+| ----------- | ------------------------------------- | ------------------------------------- |
+| `/auditlog` | Configure logging events and channels | Select events and destination channel |
+
+> [!NOTE|label:Channel Limitations]
+> If your server has many channels, you'll see multiple "Select channel" options due to Discord's 25-option limit per select menu.
 
 
+## Preview
 
-### Discord Commands
-- `/auditlog` - Select the events you want to log and the channel where the logs will be sent to.
+![Logging Setup Interface](../assets/images/EIEWJdC01q.png)
 
-> [!note|label:|iconVisibility:hidden]
-> if you have a lot of discord channels you have more then 1 Select channel option.Because of the discord limitation of 25 channels per select menu.
+![Audit Log Example 1](../assets/images/auditlog.png)
 
-### Preview
-![Logging](../assets/images/auditlog.png)
-![Logging](../assets/images/auditlog_2.png)
+![Audit Log Example 2](../assets/images/auditlog_2.png)

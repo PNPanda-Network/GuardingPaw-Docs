@@ -1,17 +1,16 @@
-## Ticket System
+# Ticket System
 
 Support ticket system for efficient user and staff communication.
 
+## Preview
 
-### Preview
-![alt text](../assets/images/zcydoGsK7i.png)
+![Ticket System Interface](../assets/images/TicketSystemInterface.png)
+After closing a ticket, a [Transcript](Dokumentation/Dev-Docs/docs/sites/transcript.md) will be created automatically and sent to the selectet Log channel and the user who created the ticket.
 
+## Discord Commands
 
-after closing a ticket will be created automatically a [Transcript](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/transcript.md) and send it to the [Logchannel](Panda-Network-Vault/Dokumentation/GuardingPaw/docs/sites/logging.md) and the user who created the ticket.
-
-### Discord Command`s
-- `/ticket setup channel:  category: role:` - Setup a new Ticket Panel.
-- `/ticket list ` - List all Ticket Panels.
-- `/ticket remove panel:` - Remove a Ticket Panel.
-- `/ticket adduser user:` - Add a user to the ticket.
-- `/ticket removeuser user:` - Remove a user from the ticket.
+- `/ticket setup channel: category: role:` - Setup a new Ticket Panel
+- `/ticket list` - List all Ticket Panels
+- `/ticket remove panel:` - Remove a Ticket Panel
+- `/ticket adduser user:` - Add a user to the ticket
+- `/ticket removeuser user:` - Remove a user from the ticket

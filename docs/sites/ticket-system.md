@@ -5,7 +5,7 @@ Support ticket system for efficient user and staff communication.
 ## Preview
 
 ![Ticket System Interface](../assets/images/TicketSystemInterface.png)
-After closing a ticket, a [Transcript](Dokumentation/Dev-Docs/docs/sites/transcript.md) will be created automatically and sent to the selectet Log channel and the user who created the ticket.
+After closing a ticket, a [Transcript](transcript.md) will be created automatically and sent to the selectet Log channel and the user who created the ticket.
 
 ## Discord Commands
 

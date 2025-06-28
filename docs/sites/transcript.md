@@ -26,8 +26,8 @@ Transcripts are generated automatically when:
 When a transcript is generated, it is sent to:
 
 1. **The User**: The person who originally created the ticket receives a copy
-2. **Log Channel**: If configured, transcripts are posted to your designated [Ticket System](Dokumentation/Dev-Docs/docs/sites/ticket-system.md)
+2. **Log Channel**: If configured, transcripts are posted to your designated [Ticket System](ticket-system.md)
 
 ## Configuration
 
-Transcript functionality is automatically enabled when you set up the [Ticket System](Dokumentation/Dev-Docs/docs/sites/ticket-system.md). No additional configuration is required.
+Transcript functionality is automatically enabled when you set up the [Ticket System](ticket-system.md). No additional configuration is required.

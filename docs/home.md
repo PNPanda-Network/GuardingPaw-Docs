@@ -24,7 +24,7 @@
 Ready to get started? Here's what you need to know:
 
 1. **Prerequisites**: You need **Manage Server** permission to add and configure the bot
-2. **Setup**: Visit our [Getting Started Guide](Dokumentation/Dev-Docs/docs/getting-started.md) for step-by-step instructions
+2. **Setup**: Visit our [Getting Started Guide](getting-started.md) for step-by-step instructions
 3. **Management**: Use either Discord commands or our web Hub at [guardingpaw.xyz/manage](https://guardingpaw.xyz/manage)
 
 ## Need Help?

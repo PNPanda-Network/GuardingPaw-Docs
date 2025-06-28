@@ -1,19 +1,19 @@
-- [Introduction](Dokumentation/Dev-Docs/docs/home.md)
-- [Getting Started](Dokumentation/Dev-Docs/docs/getting-started.md)
+- [Introduction](home.md)
+- [Getting Started](getting-started.md)
 
 **Core Features**
-- [Auto Roles](Dokumentation/Dev-Docs/docs/sites/autorole.md)
-- [Server Logging](Dokumentation/Dev-Docs/docs/sites/logging.md)
-- [Ticket System](Dokumentation/Dev-Docs/docs/sites/ticket-system.md)
+- [Auto Roles](sites/autorole.md)
+- [Server Logging](sites/logging.md)
+- [Ticket System](sites/ticket-system.md)
 
 **User Interaction**
-- [Reaction Roles](Dokumentation/Dev-Docs/docs/sites/reaction-roles.md)
-- [Temporary Voice Channels](Dokumentation/Dev-Docs/docs/sites/temporary-voice-channels.md)
+- [Reaction Roles](sites/reaction-roles.md)
+- [Temporary Voice Channels](sites/temporary-voice-channels.md)
 
 **Notifications**
-- [YouTube Alerts](Dokumentation/Dev-Docs/docs/sites/youtube.md)
-- [Twitch Alerts](Dokumentation/Dev-Docs/docs/sites/streaming.md)
+- [YouTube Alerts](sites/youtube.md)
+- [Twitch Alerts](sites/streaming.md)
 
 **Reference**
-- [All Commands](Dokumentation/Dev-Docs/docs/sites/all-commands.md)
-- [Transcripts](Dokumentation/Dev-Docs/docs/sites/transcript.md)
+- [All Commands](sites/all-commands.md)
+- [Transcripts](sites/transcript.md)

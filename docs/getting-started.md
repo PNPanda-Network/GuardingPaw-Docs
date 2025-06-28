@@ -21,19 +21,19 @@ Once you've selected your server, you can configure Guarding Paw in two ways:
 
 #### Option B: Discord Commands
 - Use slash commands directly in your Discord server
-- See our [Complete Commands List](Dokumentation/Dev-Docs/docs/sites/all-commands.md) for all available commands
+- See our [Complete Commands List](sites/all-commands.md) for all available commands
 - Perfect for quick adjustments
 
 ### Step 3: Explore and Configure Features
 
 Take some time to explore the various features available:
 
-- **[Auto Roles](Dokumentation/Dev-Docs/docs/sites/autorole.md)** - Automatically assign roles to new members
-- **[Logging](Dokumentation/Dev-Docs/docs/sites/logging.md)** - Track important server events
-- **[Reaction Roles](Dokumentation/Dev-Docs/docs/sites/reaction-roles.md)** - Let users choose their own roles
-- **[Temporary Voice Channels](Dokumentation/Dev-Docs/docs/sites/temporary-voice-channels.md)** - Dynamic voice channel creation
-- **[Ticket System](Dokumentation/Dev-Docs/docs/sites/ticket-system.md)** - Professional support system
-- **[Notifications](Dokumentation/Dev-Docs/docs/sites/youtube.md)** - [YouTube](Dokumentation/Dev-Docs/docs/sites/youtube.md) and [Twitch](Dokumentation/Dev-Docs/docs/sites/streaming.md) alerts
+- **[Auto Roles](sites/autorole.md)** - Automatically assign roles to new members
+- **[Logging](sites/logging.md)** - Track important server events
+- **[Reaction Roles](sites/reaction-roles.md)** - Let users choose their own roles
+- **[Temporary Voice Channels](sites/temporary-voice-channels.md)** - Dynamic voice channel creation
+- **[Ticket System](sites/ticket-system.md)** - Professional support system
+- **[Notifications](sites/youtube.md)** - [YouTube](sites/youTube.md) and [Twitch](sites/streaming.md) alerts
 
 ## Need Help?
 

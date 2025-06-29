@@ -5,6 +5,30 @@ This page contains all available Discord slash commands for Guarding Paw. Comman
 > [!TIP]
 > **Prefer the Web Interface?** All features can also be configured through our user-friendly [Hub](https://guardingpaw.xyz/manage).
 
+## Giveaway System
+
+Easily create and manage giveaways on your Discord server with Guarding Paw. Automate prize draws, set participation requirements, and keep your community engaged.
+
+| Command                | Description                        | Required Parameters                | Optional Parameters                                                                 |
+|------------------------|------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------|
+| `/giveaway start`      | Start a new giveaway               | `duration`, `prize`, `winners`      | `channel`, `description`, `accountage`, `serverage`, `requiredrole`, `pingusers`    |
+| `/giveaway edit`       | Edit an active giveaway            | `giveawayid`                        | `changeprize`, `description`, `winneramount`, `addtime`, `subtime`                  |
+| `/giveaway end`        | End a giveaway immediately         | `giveawayid`                        | -                                                                                   |
+| `/giveaway reroll`     | Reroll winners for a giveaway      | `giveawayid`, `howmany`             | -                                                                                   |
+
+**Parameter Details:**
+- `duration`: How long the giveaway runs (e.g., `1h`, `30m`, `2d`, `1w`)
+- `prize`: The item to win
+- `winners`: Number of winners (1-20)
+- `channel`: Channel for the giveaway (default: current channel)
+- `description`: Extra info for the giveaway
+- `accountage`: Minimum account age in days (1-365)
+- `serverage`: Minimum server membership in days (1-365)
+- `requiredrole`: Role required to participate
+- `pingusers`: Whether to ping winners at the end (true/false)
+
+---
+
 ## Temporary Voice Channels
 
 Create dynamic voice channels that automatically manage themselves:

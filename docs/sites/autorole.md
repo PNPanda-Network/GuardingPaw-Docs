@@ -1,13 +1,20 @@
-## Autorole
+# Auto Role Assignment
+
+Automatically assign roles to new members when they join your Discord server. This feature helps streamline the onboarding process and ensures consistent role distribution.
+
+> [!ATTENTION|label:Important Requirements]
+> - The bot must have **Manage Roles** permission
+> - The role being assigned must be **below** the bot's highest role in the role hierarchy
+
+## How It Works
+
+When a new member joins your server, Guarding Paw will automatically assign the configured role within seconds. This eliminates the need for manual role assignment and ensures all new members receive the appropriate permissions immediately.
 
 
-> [!ATTENTION|label:|iconVisibility:hidden]
-> Make sure that the bot has permission to manage roles **and** that the role the bot is assigning is below the highest role the bot has.
-  
-<br>
+### Setup Steps:
 
-![autorole](../assets/images/autorole_0.png)
-<p style="text-align:center;">Autorole view</p>
+1. **Visit the [Hub](https://guardingpaw.xyz/manage)**:  and select your server
+2. **Select Role**: Choose the role you want to automatically assign to new members
 
 
-<b>Automatically assign members this role:</b> <br> Select the role that you want to bot to auto assign (only one role can be auto assigned).
+![Autorole Interface](../assets/images/Auto_Role.png)

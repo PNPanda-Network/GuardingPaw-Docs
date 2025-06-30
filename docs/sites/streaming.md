@@ -1,11 +1,19 @@
-## Twitch Notifications
+# Twitch Notifications
 
-To receive notifications from a Twitch streamer, simply go to the Twitch channel you want to receive notifications from and copy the name from the URL. `https://www.twitch.tv/`**thegodlynoob**<br>
+To receive notifications from a Twitch streamer, simply go to the Twitch channel you want to receive notifications from and copy the name from the URL: `https://www.twitch.tv/`**thegodlynoob**
 
-![alt text](../assets/images/notification/twitch/YdNVGx6W4t.png)
+![Twitch Channel Name Example](../assets/images/TwitchChannelNameExample.png)
 
-The default notification message is: <br> `<everyone> <channelname> is now live! Go check it out!!`<br>
-You can customize the message by using the following placeholders:<br>
+![Active Twitch Notifications](../assets/images/ActiveTwitchNotifications.png)
+
+## Message Customization
+
+The default notification message is:
+```
+<everyone> <channelname> is now live! Go check it out!!
+```
+
+You can customize the message by using the following placeholders:
 - `<everyone>` - Mentions everyone
 - `<channelname>` - The name of the channel
 
@@ -20,12 +28,13 @@ Use the following Discord commands to manage your Twitch notifications:
 ### Preview
 
 Below are some preview images to help you understand the process:
+![Notification Discord Select](../assets/images/notification/notification_discord_Select.png)
+![Twitch Name Entry](../assets/images/notification/twitch/notification_discord_twitch_name_enter.png)
+![Discord Channel Select](../assets/images/notification/youtube/notification_discord_youtube_Discordchannel_select.png)
+![Twitch End Info](../assets/images/notification/twitch/notification_discord_twitch_End_info.png)
+![Twitch Final Setup](../assets/images/notification/twitch/notification_discord_twitch_final.png)
+![Twitch Notification List](../assets/images/notification/twitch/notification_discord_twitch_list.png)
 
-![notification_discord_select](../assets/images/notification/notification_discord_Select.png)
-![notification_discord_twitch_name_enter](../assets/images/notification/twitch/notification_discord_twitch_name_enter.png)
-![notification_discord_discord_channel_select](../assets/images/notification/youtube/notification_discord_youtube_Discordchannel_select.png)
-![notification_discord_twitch_end_info](../assets/images/notification/twitch/notification_discord_twitch_End_info.png)
-![notification_discord_twitch_final](../assets/images/notification/twitch/notification_discord_twitch_final.png)
-![notification_discord_twitch_list](../assets/images/notification/twitch/notification_discord_twitch_list.png)
+![Live Notification Preview](../assets/images/cAmvfSOs3e.png)
 
-![preview](../assets/images/cAmvfSOs3e.png)
+

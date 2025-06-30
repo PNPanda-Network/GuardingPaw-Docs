@@ -8,7 +8,7 @@
 
 **User Interaction**
 - [Reaction Roles](sites/reaction-roles.md)
-- [Temporary Voice Channels](sites/temporary-voice-channels.md))
+- [Temporary Voice Channels](sites/temporary-voice-channels.md)
 - [Giveaway System](sites/giveaway.md)
 
 **Notifications**

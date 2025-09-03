@@ -5,6 +5,7 @@
 - [Auto Roles](sites/autorole.md)
 - [Server Logging](sites/logging.md)
 - [Ticket System](sites/ticket-system.md)
+- [Server Statistics](sites/serverstatistics.md)
 
 **User Interaction**
 - [Reaction Roles](sites/reaction-roles.md)

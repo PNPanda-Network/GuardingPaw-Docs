@@ -34,6 +34,7 @@ Take some time to explore the various features available:
 - **[Temporary Voice Channels](sites/temporary-voice-channels.md)** - Dynamic voice channel creation
 - **[Ticket System](sites/ticket-system.md)** - Professional support system
 - **[Notifications](sites/youtube.md)** - [YouTube](sites/youTube.md) and [Twitch](sites/streaming.md) alerts
+- **[Server Statistics](sites/serverstatistics .md)** Display Live Server Stats
 
 ## Need Help?
 

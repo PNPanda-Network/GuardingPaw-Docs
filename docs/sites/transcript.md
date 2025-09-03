@@ -2,6 +2,10 @@
 
 When a support ticket is closed, Guarding Paw automatically generates a comprehensive transcript of the entire conversation. This feature ensures that important information is preserved and accessible for future reference.
 
+## Commands
+
+This feature operates automatically upon ticket closure. No Discord commands are available for manual transcript generation.
+
 ## What is a Transcript?
 
 A transcript is a complete record of all messages, interactions, and events that occurred within a support ticket. It includes:
@@ -10,12 +14,6 @@ A transcript is a complete record of all messages, interactions, and events that
 - **Timestamps** for each message
 - **User information** (usernames, Avatar)
 - **Attachments** and media shared during the conversation
-
-## Preview
-[Example Transcript](https://guardingpaw.xyz/transcript/834b-edcd-9dba-5bc6-f9ab-a913-a6b6-1f29/830008536623874088)
-
-![Example Transcript](../assets/images/Example_Transcript.png)
-
 
 ## Automatic Generation
 
@@ -31,3 +29,9 @@ When a transcript is generated, it is sent to:
 ## Configuration
 
 Transcript functionality is automatically enabled when you set up the [Ticket System](ticket-system.md). No additional configuration is required.
+
+## Preview
+
+![Example Transcript](../assets/images/TicketSystem/Example_Transcript.png)
+
+> **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

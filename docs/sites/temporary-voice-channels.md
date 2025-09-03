@@ -2,6 +2,23 @@
 
 Create dynamic voice channels that automatically appear when needed and disappear when empty. Perfect for communities that need flexible voice communication without cluttering the server with unused channels.
 
+## Commands
+
+| Command         | Description                               | Required Parameters          | Optional Parameters |
+|-----------------|-------------------------------------------|------------------------------|--------------------|
+| `/voice setup`  | Setup temporary voice channels            | `masterchannel`, `category`  | `channel`          |
+| `/voice list`   | List all active temporary voice channels  | -                            | -                  |
+| `/voice remove` | Delete a specific temporary voice channel | `voiceid`                    | -                  |
+| `/voice manage` | Manage your temporary voice channel       | `action`                     | `value`            |
+
+**Parameter Details:**
+- `masterchannel`: The master channel for creating temporary channels.
+- `category`: The category for temporary channels.
+- `channel`: Custom name pattern (e.g., `My Room #`).
+- `voiceid`: ID of the temporary voice channel to remove.
+- `action`: Action to perform (e.g., Set User Limit).
+- `value`: Value for the action.
+
 ## How It Works
 
 Temporary voice channels provide an elegant solution to voice channel management:
@@ -24,20 +41,12 @@ Temporary voice channels provide an elegant solution to voice channel management
 
 ### Discord Command Setup:
 ```
-/voice setup masterchannel:#"➕┃Temp Voice" category:#"Voice Channels"
+ /voice setup masterchannel:#"➕┃Temp Voice" category:#"Voice Channels"
 ```
 
 **Optional Parameters:**
 - `channel:` - Custom name pattern (e.g., `channel:My Room #` results in "My Room #1", "My Room #2", etc.)
 
-## Preview
-
-### Creation Process:
-![Creating Temporary Voice Channel](../assets/images/CreatingTemporaryVoiceChannel.png)
-### Result:
-![Temporary Voice Channel Preview](../assets/images/TemporaryoiceChannelPreview.png)
-
-![Temporary Voice Manage](../assets/images/tempvoicemanage.png)
 ## Channel Management
 
 As the creator of a temporary voice channel, you have full control over your channel and can manage various settings:
@@ -56,14 +65,15 @@ As the creator of a temporary voice channel, you have full control over your cha
 
 💡 **Use the command `/tempvoice manage` to manage your channel!**
 
-## Management Commands
-
-| Command         | Description                         | Example                                              |
-| --------------- | ----------------------------------- | ---------------------------------------------------- |
-| `/voice setup`  | Configure temporary voice system    | `/voice setup masterchannel:#create category:#voice` |
-| `/voice list`   | Show all active temporary channels  | `/voice list`                                        |
-| `/voice remove` | Manually delete a temporary channel | `/voice remove voiceid:123456789`                    |
-| `/voice manage` | Manage your temporary voice channel | `/tempvoice manage action:Set User Limit value:1`|
-
 > [!NOTE|label:Channel Limitations]
 > also you can use use: xxx to user the user based actions
+
+## Preview
+
+![Creating Temporary Voice Channel](../assets/images/TempVoice/CreatingTemporaryVoiceChannel.png)
+![Temporary Voice Manage](../assets/images/TempVoice/TempvoiceManage.png)
+
+![Temporary Voice Channel Preview](../assets/images/TempVoice/TemporaryoiceChannelPreview.png)
+
+
+> **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

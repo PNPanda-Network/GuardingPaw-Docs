@@ -7,6 +7,21 @@ After that, choose the **Discord channel** where you want the notifications to a
 You can also select the specific **Content Type** you want to get notified about – choose between **Videos**, **Shorts**, **Livestreams**, or any combination of them.
 
 ![YouTube Channel Setup](../assets/images/youtube_0.png)
+
+## Commands
+
+| Command                | Description                  | Required Parameters | Optional Parameters |
+|------------------------|------------------------------|---------------------|--------------------|
+| `/notification add`    | Add a new notification       | -                   | -                  |
+| `/notification list`   | List notifications by type   | `type`              | -                  |
+| `/notification remove` | Remove a notification        | `removechannel`     | -                  |
+
+**Parameter Details:**
+- `type`: Type of notification (`Twitch` or `YouTube`).
+- `removechannel`: Name of the channel to remove.
+
+**Supported Types:** Twitch, YouTube
+
 ## Message Customization
 
 The default notification message is:
@@ -18,25 +33,29 @@ You can customize the message by using the following placeholders:
 - `<everyone>` - Mentions everyone in the Discord channel
 - `<channelname>` - The name of the YouTube channel
 
-## Discord Commands
+## Preview
 
-Use the following Discord commands to manage your YouTube notifications:
+Below are some preview images to help you understand the process:#
 
-- `/notification add` - Select the notification type and add a new notification
-- `/notification list type:YouTube` - Get a list of all YouTube notifications
-- `/notification remove removechannel:<channelname>` - Remove a notification for a specific channel
 
-### Preview
+| ![Notification Discord Select](../assets/images/notification/notification_discord_Select.png)           | ![YouTube Name Entry](../assets/images/notification/youtube/Notification_Discord_Entername.png) |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![YouTube Channel Select](../assets/images/notification/youtube/Notification_Discord_Channelselect.png) | ![YouTube Channel Info](../assets/images/notification/youtube/Notification_Discord_Channelinfo.png)      |
+| ![Discord Channel Select](../assets/images/Notification/Notification_Discord_Channel.png)               | ![YouTube End Info](../assets/images/notification/youtube/Notification_Discord_youtube_Endinfo.png)      |
+| ![YouTube Final Setup](../assets/images/notification/youtube/Notification_Discord_Final.png)            | ![YouTube Notification List](../assets/images/notification/youtube/Notification_Discord_List.png)        |
+| ![Video Notification Preview](../assets/images/Notification/youtube/Notification_Discord_Result.png)    |                                                                                                          |
 
-Below are some preview images to help you understand the process:
 
-![Notification Discord Select](../assets/images/notification/notification_discord_Select.png)
-![YouTube Name Entry](../assets/images/notification/youtube/notification_discord_youtube_name_enter.png)
-![YouTube Channel Select](../assets/images/notification/youtube/notification_discord_youtube_channel_select.png)
-![YouTube Channel Info](../assets/images/notification/youtube/notification_discord_youtube_channel_info.png)
-![Discord Channel Select](../assets/images/notification/youtube/notification_discord_youtube_Discordchannel_select.png)
-![YouTube End Info](../assets/images/notification/youtube/notification_discord_youtube_End_info.png)
-![YouTube Final Setup](../assets/images/notification/youtube/notification_discord_youtube_final.png)
-![YouTube Notification List](../assets/images/notification/youtube/notification_discord_youtube_list.png)
 
-![Video Notification Preview](../assets/images/s1ITuqYJE3.png)
+
+
+
+
+
+
+
+
+
+
+
+> **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

@@ -2,6 +2,12 @@
 
 Monitor and track important server activities with Guarding Paw's comprehensive logging system. Keep your moderation team informed and maintain detailed records of server events.
 
+## Commands
+
+| Command     | Description                           | Required Parameters | Optional Parameters |
+|-------------|---------------------------------------|---------------------|--------------------|
+| `/auditlog` | Configure logging events and channels | -                   | -                  |
+
 ## What Gets Logged?
 
 The audit logging system can track various server events, including:
@@ -20,22 +26,16 @@ The audit logging system can track various server events, including:
 3. **Choose Log Channel**: Select where log messages should be sent
 4. **Configure Welcome Messages**: Optionally set up welcome messages for new members
 
-## Discord Commands
-
-For quick configuration via Discord:
-
-| Command     | Description                           | Usage                                 |
-| ----------- | ------------------------------------- | ------------------------------------- |
-| `/auditlog` | Configure logging events and channels | Select events and destination channel |
-
 > [!NOTE|label:Channel Limitations]
 > If your server has many channels, you'll see multiple "Select channel" options due to Discord's 25-option limit per select menu.
 
-
 ## Preview
 
-![Logging Setup Interface](../assets/images/EIEWJdC01q.png)
+![Logging Setup Interface](../assets/images/Logging/Logging-Hub.png)
 
-![Audit Log Example 1](../assets/images/auditlog.png)
 
-![Audit Log Example 2](../assets/images/auditlog_2.png)
+| ![Audit Log Example 1](../assets/images/Logging/Auditlog-Discord.png)  |                                                                        |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![Audit Log Example 2](../assets/images/Logging/Auditlog-Discord2.png) | ![Audit Log Example 3](../assets/images/Logging/Auditlog-Discord3.png) |
+
+> **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

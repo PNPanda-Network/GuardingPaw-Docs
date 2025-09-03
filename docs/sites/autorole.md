@@ -6,6 +6,10 @@ Automatically assign roles to new members when they join your Discord server. Th
 > - The bot must have **Manage Roles** permission
 > - The role being assigned must be **below** the bot's highest role in the role hierarchy
 
+## Commands
+
+This feature is configured exclusively through the web interface. No Discord commands are available.
+
 ## How It Works
 
 When a new member joins your server, Guarding Paw will automatically assign the configured role within seconds. This eliminates the need for manual role assignment and ensures all new members receive the appropriate permissions immediately.
@@ -18,3 +22,5 @@ When a new member joins your server, Guarding Paw will automatically assign the 
 
 
 ![Autorole Interface](../assets/images/Auto_Role.png)
+
+> **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

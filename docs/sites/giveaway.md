@@ -6,15 +6,6 @@ Easily create and manage giveaways on your Discord server with Guarding Paw. Aut
 > - **Permission Needed:** Manage Events
 > - **Cooldown:** 30 seconds between commands
 
-## How It Works
-
-1. **Start a Giveaway:** Use the `/giveaway start` command with your desired parameters.
-2. **Participation:** Users join by clicking the 🎉 button. All requirements are checked automatically.
-3. **Automatic Draw:** The giveaway ends at the set time, winners are chosen, and the message is updated.
-4. **Management:** Edit, end, or reroll giveaways at any time using the provided commands.
-
----
-
 ## Commands
 
 | Command                | Description                        | Required Parameters                | Optional Parameters                                                                 |
@@ -35,12 +26,19 @@ Easily create and manage giveaways on your Discord server with Guarding Paw. Aut
 - `requiredrole`: Role required to participate
 - `pingusers`: Whether to ping winners at the end (true/false)
 
+## How It Works
+
+1. **Start a Giveaway:** Use the `/giveaway start` command with your desired parameters.
+2. **Participation:** Users join by clicking the 🎉 button. All requirements are checked automatically.
+3. **Automatic Draw:** The giveaway ends at the set time, winners are chosen, and the message is updated.
+4. **Management:** Edit, end, or reroll giveaways at any time using the provided commands.
+
 ---
 
 ## Examples
 
 ```bash
-/giveaway start duration:2h prize:Discord Nitro winners:1
+/giveaway start duration:2h prize:0 V-Bucks winners:1
 /giveaway start duration:1d prize:Gaming-Setup winners:3 accountage:30 serverage:7 requiredrole:@Member
 /giveaway edit giveawayid:gw_123456789 changeprize:New Prize addtime:1h
 /giveaway end giveawayid:gw_123456789
@@ -73,8 +71,13 @@ Manage all giveaways visually:
 
 ## Preview
 
-![Giveaway Example](../assets/images/NewGiveaway.png)
-![Active Giveaways](../assets/images/ActiveGiveaways.png)
+
+
+
+| ![Giveaway Example](../assets/images/Giveaway/NewGiveaway.png) | ![Active Giveaways](../assets/images/Giveaway/ActiveGiveaways.png) |
+| -------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![GiveawayExample 1](../assets/images/Giveaway/ActiveGiveaway_Discord.png) | ![GiveawayExample 1](../assets/images/Giveaway/Giveaway_Status_Discord.png) |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 
 ---
 

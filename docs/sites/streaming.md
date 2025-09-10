@@ -42,7 +42,7 @@ Below are some preview images to help you understand the process:
 |                                                                                            |                                                                                             |
 
 
-| ![Notification Discord Select](../assets/images/Notification/notification_discord_Select.png)   | ![Twitch Name Entry](../assets/images/Notification/twitch/Notification_Discord_Twitchname.png)     |
+| ![Notification Discord Select](../assets/images/Notification/Notification_Discord_Select.png)   | ![Twitch Name Entry](../assets/images/Notification/twitch/Notification_Discord_Twitchname.png)     |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ![Discord Channel Select](../assets/images/Notification/Notification_Discord_Channel.png)       | ![Twitch Final Setup](../assets/images/Notification/twitch/Notification_Discord_Final.png)         |
 | ![Twitch Notification List](../assets/images/Notification/twitch/Notification_Discord_List.png) | ![Live Notification Preview](../assets/images/Notification/twitch/Notification_Discord_Result.png) |

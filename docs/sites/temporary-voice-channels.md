@@ -73,7 +73,7 @@ As the creator of a temporary voice channel, you have full control over your cha
 ![Creating Temporary Voice Channel](../assets/images/TempVoice/CreatingTemporaryVoiceChannel.png)
 ![Temporary Voice Manage](../assets/images/TempVoice/TempvoiceManage.png)
 
-![Temporary Voice Channel Preview](../assets/images/TempVoice/TemporaryoiceChannelPreview.png)
+![Temporary Voice Channel Preview](../assets/images/TempVoice/TemporaryVoiceChannelPreview.png)
 
 
 > **Need Help?** Join our [support server](https://pnnet.dev/discord) for assistance with any commands or features.

@@ -37,11 +37,11 @@ You can customize the message by using the following placeholders:
 Below are some preview images to help you understand the process:#
 
 
-| ![Notification Discord Select](../assets/images/Notification/Notification_Discord_Select.png)           | ![YouTube Name Entry](../assets/images/Notification/youtube/Notification_Discord_Entername.png)     |
+| ![Notification Discord Select](../assets/images/Notification/notification_discord_Select.png)           | ![YouTube Name Entry](../assets/images/Notification/youtube/Notification_Discord_Entername.png)     |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![YouTube Channel Select](../assets/images/notification/youtube/Notification_Discord_Channelselect.png) | ![YouTube Channel Info](../assets/images/notification/youtube/Notification_Discord_Channelinfo.png) |
-| ![Discord Channel Select](../assets/images/Notification/Notification_Discord_Channel.png)               | ![YouTube End Info](../assets/images/notification/youtube/Notification_Discord_youtube_Endinfo.png) |
-| ![YouTube Final Setup](../assets/images/Notification/youtube/Notification_Discord_Final.png)            | ![YouTube Notification List](../assets/images/notification/youtube/Notification_Discord_List.png)   |
+| ![YouTube Channel Select](../assets/images/Notification/youtube/Notification_Discord_Channelselect.png) | ![YouTube Channel Info](../assets/images/Notification/youtube/Notification_Discord_Channelinfo.png) |
+| ![Discord Channel Select](../assets/images/Notification/Notification_Discord_Channel.png)               | ![YouTube End Info](../assets/images/Notification/youtube/Notification_Discord_youtube_Endinfo.png) |
+| ![YouTube Final Setup](../assets/images/Notification/youtube/Notification_Discord_Final.png)            | ![YouTube Notification List](../assets/images/Notification/youtube/Notification_Discord_List.png)   |
 | ![Video Notification Preview](../assets/images/Notification/youtube/Notification_Discord_Result.png)    |                                                                                                     |
 
 
